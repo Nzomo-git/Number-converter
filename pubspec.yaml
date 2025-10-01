@@ -1,0 +1,15 @@
+﻿name: number_converter
+description: Number system converter (2-36) with history.
+publish_to: none
+environment:
+  sdk: ">=2.18.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
